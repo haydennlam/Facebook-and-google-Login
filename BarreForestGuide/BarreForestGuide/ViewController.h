@@ -7,8 +7,9 @@
 //
 
 #import <UIKit/UIKit.h>
-#import <FacebookSDK/FacebookSDK.h>
+#import "FacebookSDK/FacebookSDK.h"
 
 @interface ViewController : UIViewController <FBFriendPickerDelegate>
 @property (weak, nonatomic) IBOutlet FBLoginView *loginView;
 @end
+//Users/huyenlam/Documents/FacebookSDK/FacebookSDK.framework/Headers/FacebookSDK.h
