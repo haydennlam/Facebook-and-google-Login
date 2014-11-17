@@ -12,4 +12,3 @@
 @interface ViewController : UIViewController <FBFriendPickerDelegate>
 @property (weak, nonatomic) IBOutlet FBLoginView *loginView;
 @end
-//Users/huyenlam/Documents/FacebookSDK/FacebookSDK.framework/Headers/FacebookSDK.h

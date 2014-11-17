@@ -18,7 +18,7 @@
                         <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                         <subviews>
                             <view contentMode="scaleToFill" fixedFrame="YES" translatesAutoresizingMaskIntoConstraints="NO" id="OvD-OT-DcV" customClass="FBLoginView">
-                                <rect key="frame" x="35" y="259" width="250" height="50"/>
+                                <rect key="frame" x="35" y="450" width="250" height="35"/>
                                 <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="calibratedWhite"/>
                                 <connections>
                                     <outlet property="delegate" destination="vXZ-lx-hvc" id="wqD-gx-SPz"/>
